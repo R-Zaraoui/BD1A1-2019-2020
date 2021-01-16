@@ -1,4 +1,4 @@
-# BD1A1-2019-2020
+Dashboard-speedskating-BD1A
 
 ## Get started
 
