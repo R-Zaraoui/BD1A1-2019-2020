@@ -6,7 +6,7 @@ The project can be deployed inside a docker container by following these steps:
 
 1. Clone the repository 
 
-> git clone https://github.com/R-Zaraoui/BD1A1-2019-2020.git
+> git clone https://github.com/R-Zaraoui/Dashboard-speedskating-BD1A.git
 
 2. Within the main folder, run the following command to create a docker image:
 
